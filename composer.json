@@ -1,0 +1,19 @@
+{
+    "name": "aidanraskil/office",
+    "description": "Office handling for laravel 5.6 and up",
+    "authors": [
+        {
+            "name": "aidanraskil",
+            "email": "github@aidanraskil.bulc.club"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aidanraskil\\Office\\OfficeServiceProvider"
+            ]
+        }
+    }
+}
